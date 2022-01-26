@@ -6,3 +6,5 @@ To create the conda environment:
 `conda env create -f environment.yml`  
 to activate it  
 `conda activate agnpy-tutorial`
+
+# IN PROGRESS!
